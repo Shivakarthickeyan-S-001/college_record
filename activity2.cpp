@@ -51,9 +51,9 @@ public:
 };
 
 int main() {
-    Circle c(5);
-    Rectangle r(4, 6);
-    Triangle t(10, 8);
+    Circle c(7);
+    Rectangle r(5, 6);
+    Triangle t(5, 8);
 
     Shape *ptr;
 
